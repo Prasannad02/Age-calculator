@@ -15,7 +15,7 @@ Age Calculator
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Age-Calculator/
+    https://prasannad02.github.io/Age-calculator/
 
 
 ## Getting Started
